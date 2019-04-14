@@ -18,3 +18,7 @@ Learning links:
 - [merge-vs-rebasing (atlassian)](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
 - [try.github.io](https://try.github.io/)
 - [online git game](https://learngitbranching.js.org/) 
+
+## Command-line vs IntelliJ
+
+- Add an hello-world example in any language.
