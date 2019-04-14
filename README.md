@@ -21,4 +21,8 @@ Learning links:
 
 ## Command-line vs IntelliJ
 
-- Add an hello-world example in any language.
+1. Add an hello-world example in any language.
+1. Add a joke into the conflictspace using a branch
+1. Add and re-rank some movies to make the must see list more complete.
+1. In conflictspace, refactor something (small) in the 'bijtelling calculator'
+1. Now change the commit message, into something better for all these commits
