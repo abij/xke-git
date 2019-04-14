@@ -13,7 +13,7 @@
 
 Learning links:
 
-- [git-guide](http://rogerdudler.github.io/git-guide/)  (no deep shit, easry read.)
+- [git-guide](http://rogerdudler.github.io/git-guide/)  (no deep shit, easy read)
 - [www.atlassian.com/git](https://www.atlassian.com/git)
 - [merge-vs-rebasing (atlassian)](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
 - [try.github.io](https://try.github.io/)
